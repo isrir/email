@@ -1,0 +1,15 @@
+{
+    "empId": "123",
+    "empName": "John Doe",
+    "email": "john.doe@example.com",
+    "basicPay": 50000,
+    "allowances": {
+      "hra": 10000,
+      "ta": 5000
+    },
+    "deductions": {
+      "pf": 5000,
+      "lic": 2000
+    }
+  }
+  
